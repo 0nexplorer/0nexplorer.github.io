@@ -1,13 +1,13 @@
 # Site settings
-title: ONEXPLORER
-SEOTitle: ONEXPLORE | The Blog
+title: 0NEXPLORER
+SEOTitle: 0NEXPLORE | The Blog
 header-img: img/post-bg-desk.jpg
 email: senlehan@gmail.com
 description: "生活就是问题叠着问题！发现问题和解决问题是两种不同的乐趣。"
-keyword: "ONEXPLORER Blog, onexplorer的博客, onexplorer, The Blog, think, world , fun"
-url: "http://onexplorer.github.io"          # your host, for absolute URL
+keyword: "0NEXPLORER Blog, 0nexplorer的博客, 0nexplorer, The Blog, think, world , fun"
+url: "http://0nexplorer.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/onexplorer/onexplorer.github.io.git" # you code repository
+github_repo: "https://github.com/0nexplorer/0nexplorer.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
